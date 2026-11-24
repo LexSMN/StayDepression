@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 7f6b2cb925451a04e97c698f6960b90c
+guid: f158f5efa37255e478e951d6e0b85d0b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3552662711823052949
-    second: "Habitaci\xF3n noche_0"
+      213: -4816239105654792204
+    second: frame_00004_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,17 +96,56 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "Habitaci\xF3n noche_0"
+      name: frame_00004_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 5120
-        height: 2880
+        x: 5
+        y: 41
+        width: 950
+        height: 440
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +154,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6fc20f161862bec0800000000000000
-      internalID: -3552662711823052949
+      spriteID: 4ffd91a0d08492db0800000000000000
+      internalID: -4816239105654792204
       vertices: []
       indices: 
       edges: []
@@ -135,7 +174,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "Habitaci\xF3n noche_0": -3552662711823052949
+      frame_00004_0: -4816239105654792204
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
