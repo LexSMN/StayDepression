@@ -44,7 +44,12 @@ public class MUROS : MonoBehaviour
 
         if (collision.tag == "sig consulta")
         {
-            Invoke("dormir", 0.5f);
+            Invoke("dormir", 1);
         }
+
+         private void dormir()
+    {
+        SceneManager.LoadScene(7);
     }
+}
 }
